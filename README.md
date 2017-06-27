@@ -1,3 +1,7 @@
+#DEPRECATED, PLEASE USE: tr_hub_parser
+
+
+
 TeraRanger Hub ROS Module
 =========================
 
